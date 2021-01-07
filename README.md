@@ -21,7 +21,6 @@ chmod +x portscan.py
 
 ./portscan.py
 
-========================================
 How to install in Termux !
 =======================================
 pkg install update && pkg install upgrade -y
